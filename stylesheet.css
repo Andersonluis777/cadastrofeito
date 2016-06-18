@@ -12,3 +12,12 @@ h2 {
 	text-align:center;
 	background-repeat:no-repeat;
 }
+#botao2 {
+
+	border: 2px solid #A6A6A6;
+	background-color: #EBEBEB;
+	height: 20px;
+	width: 120px;
+	
+	text-align: center;
+}
